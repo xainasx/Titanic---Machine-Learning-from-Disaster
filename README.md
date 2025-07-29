@@ -69,14 +69,6 @@ The dataset used is the [Kaggle Titanic: Machine Learning from Disaster](https:/
 
 3. Run the notebook cells sequentially to explore the data, preprocess it, and train the model.
 
-## Project Structure
-
-```
-.
-├── Titanic_Survival_Prediction_using_Machine_Learning.ipynb
-├── train.csv
-└── README.md
-```
 
 ## Results
 
